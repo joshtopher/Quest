@@ -20,5 +20,5 @@ That's why I'm making Quest Productivity: an electron powered desktop applicatio
 
 
 # Sources:
-- W3 Schools CSS Templates: https://www.w3schools.com/w3css/w3css_templates.asp
-Currently using the W3 Schools Kitchen Sink/W3.CSS Demo Template
+- W3 Schools CSS Templates: https://www.w3schools.com/w3css/w3css_templates.asp:
+Currently using the 'W3 Schools Kitchen Sink/W3.CSS Demo Template' as my main CSS
